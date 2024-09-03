@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Domink
-- 👀 I’m interested in 
+- 👀 I’m interested in such much 
 - 🌱 I’m currently learning at the Dci 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
