@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  border: 10px double olivedrab;
+  background-color: rgb(146, 85, 85);
+  /* height: 50px; */
+
+}
+
+
+
+li {
+  display: inline-block;
+  color: yellowgreen;
+  margin: 20px;
+  
+}
+
+
+li:hover {
+    opacity: 0.5;
+    cursor: wait;
+}
