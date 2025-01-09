@@ -8,7 +8,11 @@ console.log(listA);
 
 
 const unorderdList = document.querySelector("ul");
-unorderdList.style.display = "flex-end";
+unorderdList.style.justifyContent = "flex-end";
 console.log(unorderdList);
 
+const listB = document.querySelector(".Buchstabe-B");
+
+listB.style.textDecoration = "line-through";
+console.log(listB);
 
